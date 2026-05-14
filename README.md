@@ -16,12 +16,6 @@
 
 ---
 
-<p align="center">
-  <img src="assets/app-preview.png" width="920" alt="Hogger.IO app window preview" />
-</p>
-
-<p align="center"><sub>Illustrative interface preview — your installed build may vary slightly by version.</sub></p>
-
 ## Features
 
 - **Addons** — Browse and manage World of Warcraft addons without juggling browser tabs.
