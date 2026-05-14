@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Shaneciora/Hogger.IO/releases/latest"><img src="https://img.shields.io/github/v/release/Shaneciora/Hogger.IO?sort=semver&label=latest%20release&logo=github&color=6e56cf" alt="Latest release" /></a>
+  <a href="https://github.com/Shaneciora/Hogger.IO/releases/latest"><img src="https://img.shields.io/github/v/release/Shaneciora/Hogger.IO?style=flat-square&amp;sort=semver&amp;label=latest%20release&amp;logo=github&amp;color=6e56cf" alt="Latest release" /></a>
   <img src="https://img.shields.io/badge/platforms-macOS%20%7C%20Windows%20%7C%20Linux-2d2740?style=flat-square" alt="macOS, Windows, and Linux" />
 </p>
 
