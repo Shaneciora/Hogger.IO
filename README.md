@@ -5,8 +5,12 @@
 <h1 align="center">Hogger.IO</h1>
 
 <p align="center">
-  <strong>A desktop companion for World of Warcraft</strong><br />
-  Addons, characters, keys, and logs—organized in one fast, modern app.
+  <strong>Your World of Warcraft companion on the desktop</strong><br />
+  Addons, alts, keys, and raid snapshot in one place. Less tab hunting, more playing.
+</p>
+
+<p align="center">
+  <img src="assets/Screenshot.png" width="920" alt="Hogger.IO dashboard: roster, recent Mythic+, raid snapshot, and addon updates" />
 </p>
 
 <p align="center">
@@ -16,51 +20,50 @@
 
 ---
 
-## Features
+## What you get
 
-- **Addons** — Browse and manage World of Warcraft addons without juggling browser tabs.
-- **Roster & characters** — Keep your characters and gear in view from the sidebar.
-- **Mythic+ & runs** — Follow keys and run detail in a layout built for quick scanning.
-- **Logs & data** — Hook into the services you already use when digging into performance.
-- **Dark, focused UI** — Built for long sessions; stays out of the way when you’re raiding or pushing keys.
+- **Addons:** Browse and manage addons from one window instead of a pile of browser tabs.
+- **Roster:** Keep your characters handy; jump between alts without losing context.
+- **Mythic+:** Recent runs, key levels, and results in a layout that’s easy to skim between queues.
+- **Raid snapshot:** A quick read on where your group’s at when you’re planning the week.
+- **Data you already use:** Ties into outside tools when you want to go deeper than the dashboard.
+- **Looks the part:** Dark UI built for long nights; it stays readable when you’re tired after raid.
 
-## Installing
+## Get the app
 
-### Latest release
+Grab the latest build here:
 
-**[Go to Releases →](https://github.com/Shaneciora/Hogger.IO/releases/latest)**
+**[Releases (download) →](https://github.com/Shaneciora/Hogger.IO/releases/latest)**
 
-Download the installer for your platform:
+| Platform     | What to download |
+| ------------ | ---------------- |
+| **macOS**    | `.dmg` or `.zip`: pick the build that matches your Mac (Apple Silicon vs Intel) |
+| **Windows**  | `.exe`: installer or portable, whichever the release notes label |
+| **Linux**    | `.AppImage` |
 
-| Platform   | What to grab                          |
-| ---------- | ------------------------------------- |
-| **macOS**  | `.dmg` or `.zip` (match the Mac CPU family you use) |
-| **Windows** | `.exe` (installer or portable, as labeled in the release) |
-| **Linux**  | `.AppImage`                           |
+Stick to **this repo’s Releases page** so you’re always getting the real installers.
 
-Always install from **this repository’s Releases page** only so you get the authentic binaries.
+### Updates
 
-### Staying up to date
+New versions land on **Releases** when they’re ready. Watching the repo or checking back now and then is the easiest way to stay current.
 
-Watch the repo or check **Releases** periodically—new builds are published when a version is ready to ship.
+## What you need
 
-## Requirements
+- **macOS**, **Windows 10/11**, or a recent **64‑bit Linux** distro
+- **Internet** when the app pulls live data (addons, character info, etc.)
 
-- **macOS**, **Windows 10/11**, or a recent **64‑bit Linux** distribution
-- **Network access** when the app needs live data or external services
+## Safety & downloads
 
-## Security & trust
+- Builds are **produced in CI** and **attached to GitHub Releases** for this repository.
+- On **macOS or Windows**, the first launch might warn you the app isn’t signed or notarized yet. That can happen with early releases. Only grab installers from **[Releases](https://github.com/Shaneciora/Hogger.IO/releases)** here.
+- The app **isn’t open source**. This public repo is here so you can **download official builds** and know what you’re running, not to distribute source.
 
-- Installers are **built in CI and attached to GitHub Releases** for this repo.
-- Early builds may be **unsigned**; your operating system might show a warning the first time you launch. That’s normal for pre-notarized or pre-certificate releases—use judgment and only download from **[Releases](https://github.com/Shaneciora/Hogger.IO/releases)** here.
-- Hogger.IO is **not open source**; this public repo exists so you can **download and verify** official builds—not to mirror source code.
+## Say hi
 
-## Feedback
-
-Questions, bugs, or feature ideas? **[Open an issue](https://github.com/Shaneciora/Hogger.IO/issues)** on this repository (when Issues are enabled).
+Spotted a bug, want a feature, or just have feedback? **[Open an issue](https://github.com/Shaneciora/Hogger.IO/issues).**
 
 ---
 
 <p align="center">
-  <sub><strong>Hogger.IO</strong> — one window for the stuff you care about in Azeroth.</sub>
+  <sub><strong>Hogger.IO:</strong> one window for the stuff you actually care about in Azeroth.</sub>
 </p>
