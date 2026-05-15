@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>Your World of Warcraft companion on the desktop</strong><br />
-  Addons, alts, keys, and raid snapshot in one place. Less tab hunting, more playing.
+  Addons, alts, keys, and raid snapshot in one place.
 </p>
 
 <p align="center">
